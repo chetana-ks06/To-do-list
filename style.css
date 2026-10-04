@@ -69,3 +69,21 @@ body{
     padding:20px;
     font-family:arial,sans-serif;
 }
+.filters {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.filters button {
+    padding: 8px 12px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#counter {
+    text-align: center;
+    margin: 15px;
+    font-weight: bold;
+}
